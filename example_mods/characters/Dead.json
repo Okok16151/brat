@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				408,
+				80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				400,
+				80
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "DeadBart Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				400,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "DeadBart Sing Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				400,
+				80
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "DeadBart Sing Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				400,
+				80
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "DeadBart Sing Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				400,
+				80
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "DeadBart Sing Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DeadBart",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Barticon",
+	"flip_x": false,
+	"healthbar_colors": [
+		230,
+		149,
+		0
+	],
+	"camera_position": [
+		-260,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}
