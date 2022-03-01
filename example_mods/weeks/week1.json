@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"bloodguilt",
+			"Barticon",
+			[
+				255,
+				100,
+				0
+			]
+		],
+		[
+			"merciful",
+			"Barticon",
+			[
+				255,
+				100,
+				0
+			]
+		],
+		[
+			"hatred",
+			"deadicon",
+			[
+				255,
+				13,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dead",
+		"bf",
+		""
+	],
+	"storyName": "Bart is gone",
+	"weekName": "bart dead bleh",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
