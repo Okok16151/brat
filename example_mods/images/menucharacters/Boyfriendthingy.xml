@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Boyfriendthingy.png"><SubTexture name="Boyfriendthingy Idle0000" x="0" y="0" width="428" height="421" frameX="0" frameY="0" frameWidth="428" frameHeight="421" />
+<SubTexture name="Boyfriendthingy Idle0001" x="428" y="0" width="428" height="421" frameX="0" frameY="0" frameWidth="428" frameHeight="421" />
+<SubTexture name="Boyfriendthingy Idle0002" x="0" y="421" width="428" height="421" frameX="0" frameY="0" frameWidth="428" frameHeight="421" />
+<SubTexture name="Boyfriendthingy Idle0003" x="428" y="421" width="428" height="421" frameX="0" frameY="0" frameWidth="428" frameHeight="421" />
+<SubTexture name="Boyfriendthingy Idle0004" x="0" y="842" width="428" height="421" frameX="0" frameY="0" frameWidth="428" frameHeight="421" />
+</TextureAtlas>

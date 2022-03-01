@@ -1,0 +1,10 @@
+{
+	"idle_anim": "DeadBart Idle",
+	"image": "DeadBart",
+	"position": [
+		680,
+		380
+	],
+	"scale": 0.4,
+	"confirm_anim": "M Dad Idle"
+}

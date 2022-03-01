@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Boyfriendthingy Idle",
+	"image": "Boyfriendthingy",
+	"position": [
+		20,
+		-10
+	],
+	"scale": 0.75,
+	"confirm_anim": ""
+}
