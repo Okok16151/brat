@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				408,
+				80
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				400,
+				80
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bart Idle"
+		},
+		{
+			"offsets": [
+				400,
+				80
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bart Sing Left"
+		},
+		{
+			"offsets": [
+				400,
+				80
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bart Sing Down"
+		},
+		{
+			"offsets": [
+				400,
+				80
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bart Sing Up"
+		},
+		{
+			"offsets": [
+				400,
+				80
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bart Sing Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bart",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-260,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

@@ -202,8 +202,8 @@
 	"no_antialiasing": false,
 	"image": "characters/BOYFRIEND",
 	"position": [
-		260,
-		370
+		100,
+		360
 	],
 	"healthicon": "bf",
 	"flip_x": true,
