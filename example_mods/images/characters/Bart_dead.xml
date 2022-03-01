@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bart_dead.png"><SubTexture name="Bart_dead Down0000" x="0" y="0" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Down0001" x="1504" y="0" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Down0002" x="3008" y="0" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Down0003" x="4512" y="0" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Down0004" x="6016" y="0" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Idle0000" x="0" y="1304" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Idle0001" x="1504" y="1304" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Idle0002" x="3008" y="1304" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Idle0003" x="4512" y="1304" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Idle0004" x="6016" y="1304" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Idle0005" x="0" y="2608" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Idle0006" x="1504" y="2608" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Idle0007" x="3008" y="2608" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Left0000" x="4512" y="2608" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Left0001" x="6016" y="2608" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Left0002" x="0" y="3912" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Left0003" x="1504" y="3912" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Left0004" x="3008" y="3912" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Left0005" x="4512" y="3912" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Right0000" x="6016" y="3912" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Right0001" x="0" y="5216" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Right0002" x="1504" y="5216" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Right0003" x="3008" y="5216" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Right0004" x="4512" y="5216" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Up0000" x="6016" y="5216" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Up0001" x="0" y="6520" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Up0002" x="1504" y="6520" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Up0003" x="3008" y="6520" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+<SubTexture name="Bart_dead Up0004" x="4512" y="6520" width="1504" height="1304" frameX="0" frameY="0" frameWidth="1504" frameHeight="1304" />
+</TextureAtlas>

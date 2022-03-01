@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Marge.png"><SubTexture name="Marge Sing Left0000" x="0" y="0" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Left0001" x="1504" y="0" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Left0002" x="3008" y="0" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Left0003" x="4512" y="0" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Left0004" x="6016" y="0" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Down0000" x="0" y="1404" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Down0001" x="1504" y="1404" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Down0002" x="3008" y="1404" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Down0003" x="4512" y="1404" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Down0004" x="6016" y="1404" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Down0005" x="0" y="2808" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Idle0000" x="1504" y="2808" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Idle0001" x="3008" y="2808" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Idle0002" x="4512" y="2808" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Idle0003" x="6016" y="2808" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Idle0004" x="0" y="4212" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Idle0005" x="1504" y="4212" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Idle0006" x="3008" y="4212" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Idle0007" x="4512" y="4212" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Right0000" x="6016" y="4212" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Right0001" x="0" y="5616" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Right0002" x="1504" y="5616" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Right0003" x="3008" y="5616" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Right0004" x="4512" y="5616" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Right0005" x="6016" y="5616" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Up0000" x="0" y="7020" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Up0001" x="1504" y="7020" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Up0002" x="3008" y="7020" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Up0003" x="4512" y="7020" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Up0004" x="6016" y="7020" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+<SubTexture name="Marge Sing Up0005" x="0" y="8424" width="1504" height="1404" frameX="0" frameY="0" frameWidth="1504" frameHeight="1404" />
+</TextureAtlas>
